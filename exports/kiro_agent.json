@@ -1,5 +1,0 @@
-{
-  "name": "linux-page-cache-reclaim-tuner",
-  "service": "aws-kiro",
-  "version": "1.0.0"
-}

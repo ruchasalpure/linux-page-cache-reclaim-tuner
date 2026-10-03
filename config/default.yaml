@@ -1,6 +1,0 @@
-app:
-  name: "linux-page-cache-reclaim-tuner"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

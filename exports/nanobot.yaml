@@ -1,4 +1,0 @@
-spec: nanobot/v1
-name: linux-page-cache-reclaim-tuner
-runtime: python3.11
-entrypoint: agent.py
